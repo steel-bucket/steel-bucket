@@ -3,7 +3,7 @@
 
 - I’m currently working on **Tweeb** <a href="http://tweeb.vercel.app">tweeb.vercel.app</a>
 
-- Currently climbing the learning curve of **React, Express, Typescript, dbt, and Docker**
+- Currently climbing the learning curve of **Next, Express, Typescript, dbt, and Docker**
 
 - Ask me about **Django, DjangoRESTframework, React JS, sklearn, pandas and Ruby**
 
