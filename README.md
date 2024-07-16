@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Deepnarayan Sett</h1>
 <h3 align="center">An Engineer in the works</h3>
 
-- I’m currently working on **Tweeb** <a href="http://tweeb.vercel.app">tweeb.vercel.app</a>
+- I’m currently working on <a href="http://getdialog.ai">tweeb.vercel.app</a>
 
 - Currently climbing the learning curve of **Next, Express, Typescript, dbt, and Docker**
 
