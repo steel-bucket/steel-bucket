@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I am Deepnarayan Sett</h1>
 <h3 align="center">An Engineer in the works</h3>
 
-- I’m currently working on <a href="http://getdialog.ai">getdialog.ai</a>
+- I’m currently working on Salaried Ecommerce.
 
-- Currently climbing the learning curve of **Next, Express, Typescript, dbt, and Docker**
+- Currently climbing the learning curve of **Next, Express, Typescript, dbt, Microservices and Docker**
 
-- Ask me about **Django, DjangoRESTframework, React JS, sklearn, pandas and Ruby**
+- Ask me about **NextJS, Tailwind, Django, DjangoRESTframework, ReactJS, sklearn, pandas, tRPC and Ruby**
 
 - How to reach me **22bec038@iiitdmj.ac.in**
 
