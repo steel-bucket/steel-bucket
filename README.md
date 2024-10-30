@@ -2,7 +2,7 @@
 <h3 align="center">An Engineer in the works</h3>
 <h3>
 <strong>  Look at my PortFolio 
-<a href="https://https://steel-bucket.github.io/" target="blank">steel-bucket.github.io</a>
+<a href="https://steel-bucket.github.io/" target="blank">steel-bucket.github.io</a>
 </strong>  
 </h3>
 
