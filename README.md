@@ -12,8 +12,6 @@
 
 - How to reach me **22bec038@iiitdmj.ac.in**
 
-- Fun fact **I like long walks**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/steelbucket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="steelbucket" height="30" width="40" /></a>
