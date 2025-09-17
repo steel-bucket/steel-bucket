@@ -8,4 +8,4 @@
 <a href="https://linkedin.com/in/deepnarayan-sett-3a2b9b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepnarayan-sett-3a2b9b220" height="30" width="40" /></a>
 </p>
 
-``` It's not a error, it's a Seg-Fault, that's a casuality.```
+``` It's not an error, it's a seg-fault, that's a casuality.```
